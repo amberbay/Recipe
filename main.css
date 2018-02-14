@@ -48,8 +48,6 @@ h4 {
   font-weight: 400;
   line-height: 20px;
 
-
-
 }
 
 p {
@@ -72,6 +70,19 @@ li {
 
 }
 
+#ingredients {
+  background: white;
+}
+
+#ingredients ol {
+  list-style: circle;
+  padding-left: 1em;
+}
+
+#ingredients li {
+  margin-top: .5em;
+}
+
 body {
-background-color: lightgreen;
+  background: lightgreen;
 }
